@@ -17,7 +17,9 @@ Disclaimer: There is no warranty of any kind, don't blame me if it goes wrong an
 
 Enter New Directory in the form G:/Folder
 
-Known feature – If you run without admin perms - After Script has popped up an admin window it will leave the old window saying Input New Location – Just close it
+If the whole blockchain already exists (at the time of writing ~10GB, it will take a while to copy obviously)
+
+Known feature – If you run without admin perms - After Script has popped up an admin window it will leave the old window saying Input New Location – Just close it.
 
 If it helped you consider sending me a donation 
 
